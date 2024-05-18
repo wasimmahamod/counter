@@ -1,5 +1,6 @@
 const h1 = document.querySelector("h1");
 const taufik = document.querySelector("taufik");
+const wasim = document.querySelector("wasim");
 
 let count = 0;
 let stop = setInterval(() => {
